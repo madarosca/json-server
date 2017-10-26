@@ -14,11 +14,4 @@
       "display_name": "Admin
     }
   ],
-  "permissions":  [
-    {
-      "id": 1,
-      "name": "admin-permissions",
-      "display_name": "Administer Permissions"
-    }
-  ],
 }
