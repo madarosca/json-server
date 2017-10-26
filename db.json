@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "mada",
+      "username": "mada.rosca",
+      "email": "mada.rosca@yahoo.com"
+    }
+  ],
+  "roles":  [
+    {
+      "id": 1,
+      "name": "admin",
+      "display_name": "Admin
+    }
+  ],
+  "permissions":  [
+    {
+      "id": 1,
+      "name": "admin-permissions",
+      "display_name": "Administer Permissions"
+    }
+  ],
+}
